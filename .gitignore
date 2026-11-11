@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+# raw and cleaned CSVs are large; link to the NYC Open Data source in the README instead
+*.csv
